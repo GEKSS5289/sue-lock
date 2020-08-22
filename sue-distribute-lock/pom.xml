@@ -12,6 +12,7 @@
     <artifactId>sue-distribute-lock</artifactId>
 
 
+
     <build>
         <plugins>
             <plugin>

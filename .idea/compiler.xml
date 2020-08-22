@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sue-distribute-lock" />
+        <module name="sue-distributelock-zookeeper" />
+        <module name="sue-redisson-lock" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
